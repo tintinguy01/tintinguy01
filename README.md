@@ -2,7 +2,7 @@
 
 **Hi there!** 👋
 
-I’m a recent aerospace engineering graduate who has discovered a passion for software development and am now transitioning into a career as a full-stack software engineer. Over the past several months, I’ve been immersing myself in coding, learning through self-study, online bootcamps, and tutorials.
+I’m a recent aerospace engineering graduate who has discovered a passion for software development and am now transitioning into a career as a software developer. Over the past several months, I’ve been immersing myself in coding, learning through self-study, online bootcamps, and tutorials.
 
 I’ve built several projects that showcase my skills, including applications developed from scratch, where I handled everything from planning and design to implementation. These projects reflect my curiosity, dedication, and ability to solve complex problems across the full stack.
 
