@@ -2,11 +2,19 @@
 
 **Hi there!** 👋
 
-I’m a recent aerospace engineering graduate who has discovered a passion for software development and am now transitioning into a career as a software developer. Over the past several months, I’ve been immersing myself in coding, learning through self-study, online bootcamps, and tutorials.
+I’m Swiss, an Associate Developer at Thoughtworks and a self-taught software engineer from Thailand, originally graduating with a degree in aerospace engineering. I made the leap into tech after discovering a genuine passion for coding and problem-solving, starting with self-study, hands-on projects, and bootcamps.
 
-I’ve built several projects that showcase my skills, including applications developed from scratch, where I handled everything from planning and design to implementation. These projects reflect my curiosity, dedication, and ability to solve complex problems across the full stack.
+I have experience working across the stack, especially with React, Next.js, TypeScript, FastAPI, C#, Java, and PostgreSQL. I love building real-world applications that solve practical problems, and I enjoy the challenge of learning new tools and collaborating with people from diverse backgrounds.
 
-I'm eager to continue growing in this field, contribute to open-source projects, and collaborate with others in the tech community.
+My journey so far includes:
+
+- Building AI-powered and full-stack projects from scratch, such as Pageyai, an AI PDF assistant, and contributing to startup products during my internship at Kenneth AI.
+
+- Working internationally—remotely from Thailand—with teams on product features, testing, and refactoring.
+
+- Joining Thoughtworks as an Associate Developer, where I’m now sharpening my skills in agile software delivery, modern development practices, and real client projects.
+
+I’m always looking to learn, contribute to open-source, and connect with others in the tech community. If you’re interested in building cool things, sharing ideas, or just chatting about tech and career transitions, feel free to reach out!
 
 ---
 
